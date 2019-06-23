@@ -4,7 +4,7 @@ QuadTree<Point> quadTree = new QuadTree<Point>(new Rectangle(0, 0, 100), maxNode
 ```
 
 <h3>A Generic Quad-Tree data-structure implemented in Unity3D.</h3>
-<p> Watch video to see an example of how it works :neckbeard: : <a href="https://www.youtube.com/watch?v=NmN3hqPfVY0" target="_blank">VIDEO LINK</a> </p>
+<p> Watch video to see an example of how it works :neckbeard: : <a href="https://www.youtube.com/watch?v=NmN3hqPfVY0" target="_blank" rel="noopener noreferrer">VIDEO LINK</a> </p>
 
 <p>
 This QuadTree accepts nodes which has inherited interfaces, <i>IHasRect</i> and <i>IHasID</i>.
@@ -61,8 +61,8 @@ You can Query an area of with an instance of Rectangle which has an <i>X</i> and
 <h5> Any suggestion or advice are welcome and would be appriciated.🙏</h5>
 
 <p> Some other good resources to take a look at. ✅</p>
-<a href="https://referencesource.microsoft.com/#System.Activities.Presentation/System.Activities.Presentation/System/Activities/Presentation/View/QuadTree.cs" target="_blank">Microsoft Reference</a>
+<a href="https://referencesource.microsoft.com/#System.Activities.Presentation/System.Activities.Presentation/System/Activities/Presentation/View/QuadTree.cs" target="_blank" rel="noopener noreferrer">Microsoft Reference</a>
+<br/> 
+<a href="https://stackoverflow.com/questions/41946007/efficient-and-well-explained-implementation-of-a-quadtree-for-2d-collision-det" target="_blank" rel="noopener noreferrer">Stackoverflow explanation</a>
 <br/>
-<a href="https://stackoverflow.com/questions/41946007/efficient-and-well-explained-implementation-of-a-quadtree-for-2d-collision-det" target="_blank">Stackoverflow explanation</a>
-<br/>
- <a href="https://stackoverflow.com/questions/42873508/quad-tree-and-kd-tree" target="_blank">Stackoverflow explanation 2</a>
+ <a href="https://stackoverflow.com/questions/42873508/quad-tree-and-kd-tree" target="_blank" rel="noopener noreferrer">Stackoverflow explanation 2</a>
